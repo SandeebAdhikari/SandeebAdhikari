@@ -1,4 +1,4 @@
-# Hii 👋, this is Sandeeb Adhikari
+# 👋 Sandeeb Adhikari
 
 ![Profile views](https://komarev.com/ghpvc/?username=SandeebAdhikari&style=flat-square&color=blue)
 
