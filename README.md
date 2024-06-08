@@ -1,16 +1,19 @@
-## Hi there 👋
+# Hii 👋, this is Sandeeb Adhikari
 
-<!--
-**SandeebAdhikari/SandeebAdhikari** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![Profile views](https://komarev.com/ghpvc/?username=SandeebAdhikari&style=flat-square&color=blue)
 
-Here are some ideas to get you started:
+[![Follow on GitHub](https://img.shields.io/github/followers/SandeebAdhikari?label=Follow&style=social)]([https://github.com/SandeebAdhikari])
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 📫 Mail me at: adhikarisandeeb@gmail.com
+- 👨‍💻 My Portfolio: [https://sandeebadhikari.com]([https://sandeebadhikari.com])
+
+## 📊 GitHub Stats:
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SandeebAdhikari&show_icons=true&theme=radical)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=SandeebAdhikari&theme=radical)
+
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SandeebAdhikari&layout=compact&theme=radical)
+
+## 🏆 GitHub Trophies
+![trophy](https://github-profile-trophy.vercel.app/?username=SandeebAdhikari&theme=radical&margin-w=15&margin-h=15)
+
