@@ -5,7 +5,7 @@
 [![Follow on GitHub](https://img.shields.io/github/followers/SandeebAdhikari?label=Follow&style=social)]([https://github.com/SandeebAdhikari])
 
 - 📫 Mail me at: adhikarisandeeb@gmail.com
-- 👨‍💻 My Portfolio: [https://sandeebadhikari.com]([https://sandeebadhikari.com])
+- 👨‍💻 My Portfolio: ![https://sandeebadhikari.com]([https://sandeebadhikari.com])
 
 ## 📊 GitHub Stats:
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SandeebAdhikari&show_icons=true&theme=radical)
