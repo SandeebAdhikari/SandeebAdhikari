@@ -4,7 +4,7 @@
 
 [![Follow on GitHub](https://img.shields.io/github/followers/SandeebAdhikari?label=Follow&style=social)]([https://github.com/SandeebAdhikari])
 
-- 📫 Mail me at: adhikarisandeeb@gmail.com
+- 📫 Mail me at: sandeebadhikari@gmail.com
 - 👨‍💻 [My Portfolio](https://www.sandeebadhikari.com)
 
 ## 📊 GitHub Stats:
